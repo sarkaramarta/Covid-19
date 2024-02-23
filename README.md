@@ -3,7 +3,7 @@ Certainly! Below is a basic README.md file for a COVID-19 Tracker web applicatio
 ![desktop](/assets/images/screenn.png)
 ## Description
 This is a simple web application designed to track COVID-19 cases worldwide. It provides real-time statistics on confirmed cases, recovered cases, and deaths. Users can also view data on a country-specific level.
-checkout-
+checkout- https://sarkaramarta.github.io/Covid-19/
 ## Features
 - Real-time data updates from reliable sources.
 - Global statistics overview.
@@ -19,7 +19,7 @@ checkout-
 ## Installation
 1. Clone the repository:
    ```
-   git clone 
+   git clone git@github.com:sarkaramarta/Covid-19.git
    ```
 2. Open the `index.html` file in your web browser.
 
@@ -32,7 +32,7 @@ checkout-
 ## Contributing
 Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
 1. Fork the repository.
-2. Create a new branch (``).
+2. Create a new branch (`https://github.com/sarkaramarta/Covid-19`).
 3. Make your changes.
 4. Commit your changes 
 5. Push to the branch 
